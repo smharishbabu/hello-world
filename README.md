@@ -8,3 +8,7 @@ Editing Master again
 =======
 >>>>>>> parent of cd1e63f... Editing in master
 zvdf
+
+Feature Test
+
+Feature Test 2
